@@ -2,9 +2,9 @@
 
 This deep learning model was built to analyse a "complaint dataset" and predict the following 3 things:
 
-• The primary category of complaint 
-• The specific issue type  
-• The urgency/severity of the complaint (1–5)  
+- The primary category of complaint 
+- The specific issue type  
+- The urgency/severity of the complaint (1–5)  
 
 The need was to build a system that can:
 
